@@ -19,6 +19,7 @@ Directory structure
 
  * `Electronic Design`: Hephestos 2 Electronics BOM, Schematics and PCB files.
 
- * `Hephestos2-BOM.ods`: Hephestos 2 Bill of Materials. Document for [LibreOffice](https://www.libreoffice.org/).
+ * `Hephestos2-LOM.ods`: Hephestos 2 List of Materials. Document for [LibreOffice](https://www.libreoffice.org/).
+ 
 
 
