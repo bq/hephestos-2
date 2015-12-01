@@ -11,7 +11,13 @@ Hephestos 2 is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Int
 
 Please read the LICENSE file for more details.
 
-Hephestos 2 is based on Prusa i3 Hephestos. Credit to the reprap community and specially to Josef Prusa.
+# Credits
+
+ * Hephestos 2 is based on Prusa i3 Hephestos. Credit to the reprap community and specially to Josef Prusa.
+ * Double Drive Gear Driven Filament extruder is inspired on several existing extruders:
+    * PrintrBot Gear Head extruder by Brook Drumm [http://printrbot.com/shop/gear-head-extruder/] (http://printrbot.com/shop/gear-head-extruder/)
+    * Bondtech extruder by Marting Bondéus [http://http://www.bondtech.se/] (http://www.bondtech.se/).
+ * Electronics are designed from scratch by BQ hardware team and the base of knowledge from reprap community.
 
 #Firmware
 Firmware: [https://github.com/bq/Marlin](https://github.com/bq/Marlin)
