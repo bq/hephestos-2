@@ -1,13 +1,17 @@
 Hephestos 2
 ======
-
+<img src="./doc/images/H2.jpg" width="200" align = "center">
 In this repository you will find the source files for the [bq Hephestos 2 3D printer](http://www.bq.com/es/productos/hephestos-2.html). If you are missing something, please do not hesitate to [file an issue on github](https://github.com/bq/hephestos-2/issues).
 
 # License 
 
+<img src="./doc/LICENSE/by-sa.png" width="200" align = "center">
+
 Hephestos 2 is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
 
 Please read the LICENSE file for more details.
+
+Hephestos 2 is based on Prusa i3 Hephestos. Credit to the reprap community and specially to Josef Prusa.
 
 #Firmware
 Firmware: [https://github.com/bq/Marlin](https://github.com/bq/Marlin)
