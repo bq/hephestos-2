@@ -1,7 +1,7 @@
 Hephestos 2
 ======
 <img src="./doc/images/H2.jpg" width="200" align = "center">
-In this repository you will find the source files for the [bq Hephestos 2 3D printer](http://www.bq.com/es/productos/hephestos-2.html). If you are missing something, please do not hesitate to [file an issue on github](https://github.com/bq/hephestos-2/issues).
+In this repository you will find the source files for the [bq Hephestos 2 3D printer](http://www.bq.com/es/productos/hephestos-2.html). 
 
 # License 
 
@@ -31,5 +31,10 @@ Directory structure
 
  * `Hephestos2-LOM.ods`: Hephestos 2 List of Materials. Document for [LibreOffice](https://www.libreoffice.org/).
  
+Contact
+===================
 
+__Community forum:__  [Mibqyyo](http://www.mibqyyo.com/comunidad/?lang=en)
+
+__Email support:__ support3d@bq.com
 
