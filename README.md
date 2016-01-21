@@ -14,9 +14,7 @@ Please read the LICENSE file for more details.
 # Credits
 
  * Hephestos 2 is based on Prusa i3 Hephestos. Credit to the reprap community and specially to Josef Prusa.
- * Double Drive Gear Driven Filament extruder is inspired on several existing extruders:
-    * PrintrBot Gear Head extruder by Brook Drumm [http://printrbot.com/shop/gear-head-extruder/] (http://printrbot.com/shop/gear-head-extruder/)
-    * Bondtech extruder by Marting Bondéus [http://http://www.bondtech.se/] (http://www.bondtech.se/).
+ * Double Drive Gear Driven Filament extruder is inspired on PrintrBot Gear Head extruder by Brook Drumm [http://printrbot.com/shop/gear-head-extruder/] (http://printrbot.com/shop/gear-head-extruder/)
  * Electronics are designed from scratch by BQ hardware team and the base of knowledge from reprap community.
 
 #Firmware
